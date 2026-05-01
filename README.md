@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Mohammed Mahrous Taha (Horus) 👋
 
-<!--
-**Horus770/Horus770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Medical Equipment Engineer | Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I am a professional **Medical Equipment Engineer** currently expanding my horizons into the world of **Web Development**, specifically focusing on **Frontend technologies**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🛠️ **Current Focus:** Learning Frontend Web Development (HTML, CSS, JavaScript) through structured paths like **Elzero Web School**.
+- 🏥 **Professional Background:** Expert in medical devices, maintenance, and troubleshooting.
+- ⚡ **Fun Fact:** I love combining my engineering mindset with creative coding to solve real-world problems.
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** HTML5, CSS3, JavaScript (Learning), Python.
+- **Tools:** VS Code, Git, GitHub.
+
+### 🤝 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/mohammed-mahrous-taha)
+- [Instagram](https://www.instagram.com/mo_mahrous7)
+
+---
+*“The monster within you can be kind.” - Believing in continuous self-improvement and psychology.*
