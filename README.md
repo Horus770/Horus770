@@ -17,10 +17,10 @@ Welcome to my GitHub! I am a professional **Medical Equipment Engineer** current
 
 ### 🤝 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/mohammed-mahrous-taha-5067323aa/) 💼
-- [Upwork](https://www.upwork.com/freelancers/~018f6735c8b577364b) 🚀
-- [Facebook](https://www.facebook.com/mo.mahrous.7) 👥
+- [Upwork](https://www.upwork.com/freelancers/~01d2b0388f215255a0) 🚀
+- [Facebook](https://www.facebook.com/mo.mahrous.841229?locale=ar_AR) 👥
 - [Instagram](https://www.instagram.com/mo_mahrous7) 📸
-- [TikTok](https://www.tiktok.com/horus_776) 🎵
+- [TikTok](https://www.tiktok.com/@horus_776) 🎵
 - [WhatsApp](https://wa.me/201021610062) 💬
 
 ---
