@@ -16,7 +16,7 @@ Welcome to my GitHub! I am a professional **Medical Equipment Engineer** current
 - **Tools:** VS Code, Git, GitHub.
 
 ### 🤝 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/mohammed-mahrous-taha-28080a22a) 💼
+- [LinkedIn](https://www.linkedin.com/in/mohammed-mahrous-taha-5067323aa/) 💼
 - [Upwork](https://www.upwork.com/freelancers/~018f6735c8b577364b) 🚀
 - [Facebook](https://www.facebook.com/mo.mahrous.7) 👥
 - [Instagram](https://www.instagram.com/mo_mahrous7) 📸
