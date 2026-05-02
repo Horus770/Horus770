@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammed Mahrous Taha (Horus) 👋
 
-### 👨‍💻 Medical Equipment Engineer | Aspiring Frontend Developer
+### 👨‍💻 Medical Equipment Maintenance Specialist | ICU Devices Expert | Aspiring Frontend Developer
 
 Welcome to my GitHub! I am a professional **Medical Equipment Engineer** currently expanding my horizons into the world of **Web Development**, specifically focusing on **Frontend technologies**.
 
